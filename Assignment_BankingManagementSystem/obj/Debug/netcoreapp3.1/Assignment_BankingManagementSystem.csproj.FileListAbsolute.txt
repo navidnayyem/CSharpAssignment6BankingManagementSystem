@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\bin\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\bin\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\bin\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\bin\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\bin\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\bin\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\Assignment_BankingManagementSystem\Assignment_BankingManagementSystem\obj\Debug\netcoreapp3.1\Assignment_BankingManagementSystem.genruntimeconfig.cache
